@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   
     noButton.addEventListener("click", function() {
-      alert("RHEGI TO FIRBHI MERI HI");
+      alert("KOI NI FIR KBHI!!");
       audio.pause();
       audio1.play();
     });
